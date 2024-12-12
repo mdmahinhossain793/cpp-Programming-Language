@@ -1,0 +1,8 @@
+Term Final Syllabus for Algorithms:
+1. Greedy Algorithms
+2. Minimum Spanning Tree (Kruskal's algorithm & Prim's algorithm)
+3. Single Source Shortest Path (Dijkstra's algorithm)
+4. Topological Sort
+
+Also there will be a class test in the next class (whenever next class happens).
+Syllabus: full term final syllabus.
